@@ -1,3 +1,10 @@
+
+#👤 Author
+
+**Harshal Gajjar**  
+JHU CS | Section 601.666  
+hgajjar1@jhu.edu
+
 # Efficient Search Engine for Personal Notes & Documents
 
 This project implements a modular, extensible search engine for personal `.txt` and `.md` files. It supports multiple retrieval models (TF-IDF, BM25, Dense Embeddings), WordNet-based query expansion, snippet generation, and IR evaluation using standard metrics.
@@ -129,17 +136,3 @@ Install them via:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 👤 Author
-
-**Harshal Gajjar**  
-JHU CS | Section 601.666  
-hgajjar1@jhu.edu
-
----
-
-## 📄 License
-
-MIT License (or modify as per course submission guidelines).
